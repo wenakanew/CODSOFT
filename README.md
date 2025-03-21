@@ -154,3 +154,47 @@ This is a graphical Rock Paper Scissors game built using Python and Tkinter. The
 ## **License**
 This project is open-source and free to use.
 
+## PROJECT 5
+
+# **To-Do List Application (Tkinter)**
+
+## **Overview**
+This is a **simple and interactive To-Do List app** built using Python's Tkinter library. It allows users to **add, update, delete, search, and track tasks** while maintaining a clear and organized interface.
+
+## **Features**
+✅ **Task Management** – Add, update, delete, and search tasks easily  
+✅ **Task Completion Toggle** – Double-click a task to mark it as complete/incomplete  
+✅ **Task Tracking** – Displays counts of completed and incomplete tasks  
+✅ **Search Functionality** – Quickly find tasks using a search bar  
+✅ **Resizable & Fullscreen Mode** – Switch between normal window and fullscreen  
+✅ **Treeview Display** – Tasks are displayed in a table format with numbering  
+
+## **Requirements**
+- Python 3.x
+- Tkinter (built-in with Python)
+
+## **How to Run**
+1. Ensure Python is installed on your system.
+2. Save the script as `todo_list.py`.
+3. Open a terminal or command prompt and navigate to the script’s location.
+4. Run the script using:
+   ```bash
+   python todo_list.py
+   ```
+5. The **To-Do List** application will launch.
+
+## **How to Use**
+- **Adding a Task**: Enter a task in the input field and click **"Add Task"**.  
+- **Updating a Task**: Select a task, enter the new text, and click **"Update Task"**.  
+- **Deleting a Task**: Select a task and click **"Delete Task"**.  
+- **Clearing All Tasks**: Click **"Clear All Tasks"** to remove all tasks.  
+- **Searching for a Task**: Enter a keyword in the search bar and click **"Search Task"**.  
+- **Marking a Task as Complete**: Double-click a task to toggle its completion status.  
+- **Exiting the Application**: Click the **"Exit"** button.  
+
+## **Customization**
+You can modify the app’s **appearance, fonts, and button styles** by tweaking the Tkinter widget properties inside the code.
+
+## **License**
+This project is **open-source** and free to use.
+
