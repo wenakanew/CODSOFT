@@ -75,4 +75,39 @@ This is a simple contact management application built using Python and Tkinter. 
 ## **License**
 This project is open-source and free to use.
 
+## PROJECT 3
+
+# **Password Generator**
+
+## **Overview**
+This is a simple password generator built using Python and Tkinter. The application allows users to generate secure passwords of a specified length and copy them to the clipboard.
+
+## **Features**
+- Generate a strong password with letters, numbers, and special characters.
+- User-defined password length.
+- Copy generated password to the clipboard.
+- Clean and simple user interface.
+
+## **Requirements**
+- Python 3.x
+- Tkinter (included with Python)
+
+## **How to Run**
+1. Ensure Python is installed on your system.
+2. Save the script as `password_generator.py`.
+3. Open a terminal or command prompt and navigate to the script’s location.
+4. Run the script using:
+   ```bash
+   python password_generator.py
+   ```
+5. The Password Generator application will launch.
+
+## **Usage**
+- Enter the desired password length in the input field.
+- Click **"Generate Password"** to create a random password.
+- Click **"Copy to Clipboard"** to copy the password for use.
+- Click **"Exit"** to close the application.
+
+## **License**
+This project is open-source and free to use.
 
