@@ -111,3 +111,46 @@ This is a simple password generator built using Python and Tkinter. The applicat
 ## **License**
 This project is open-source and free to use.
 
+## PROJECT 4
+
+# **Rock Paper Scissors Game (with Splash Screen)**
+
+## **Overview**
+This is a graphical Rock Paper Scissors game built using Python and Tkinter. The game includes a **splash screen** with a loading bar before launching the main interface. Players compete against the computer in a simple, fun way.
+
+## **Features**
+✅ **Interactive UI** – Simple and easy-to-use graphical interface  
+✅ **Splash Screen** – Displays a short loading animation before starting the game  
+✅ **Score Tracking** – Keeps track of the user's and computer's scores  
+✅ **Randomized Computer Moves** – The computer makes random choices to keep the game fair  
+✅ **Exit Confirmation** – A prompt appears when closing the game  
+
+## **Requirements**
+- Python 3.x
+- Tkinter (included with Python)
+
+## **How to Run**
+1. Make sure Python is installed on your computer.
+2. Save the script as `rock_paper_scissors.py`.
+3. Open a terminal or command prompt and navigate to the script's location.
+4. Run the script using:
+   ```bash
+   python rock_paper_scissors.py
+   ```
+5. The splash screen will appear, followed by the game.
+
+## **How to Play**
+1. Click on **"Rock"**, **"Paper"**, or **"Scissors"** to make your choice.
+2. The computer will randomly select its choice.
+3. The result will be displayed along with the updated score.
+4. Close the game by clicking the window's **close button (X)** or selecting **Quit**.
+
+## **Game Rules**
+- **Rock beats Scissors**  
+- **Scissors beats Paper**  
+- **Paper beats Rock**  
+- **If both choices are the same, it’s a tie!**
+
+## **License**
+This project is open-source and free to use.
+
