@@ -2,24 +2,41 @@
 
 Welcome to the repository for the projects I completed during my Python internship at CODSOFT.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 This repository contains various projects I worked on as a Python intern at CODSOFT. Each project showcases different aspects of Python programming and problem-solving skills.
 
-## Projects
-1. **Project 1: [Project Name]**
-   - Description: Brief overview of the project.
-   - Key Features: List of key features or functionalities.
-   - Technologies: Python libraries or tools used.
+## PROJECT 1
+
+# **Simple GUI Calculator using Tkinter**  
+
+## **Overview**  
+This is a simple GUI-based calculator built using Python's Tkinter library. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through an interactive interface.  
+
+## **Features**  
+- User-friendly interface with a clean layout.  
+- Supports basic arithmetic operations (`+`, `-`, `*`, `/`).  
+- Displays input and results dynamically.  
+- Includes a "Clear" button to reset calculations.  
+- Exit button to close the application.  
+
+## **Requirements**  
+- Python 3.x  
+- Tkinter (built-in with Python)  
+
+## **How to Run**  
+1. Ensure you have Python installed.  
+2. Save the script as `calculator.py`.  
+3. Run the script using:  
+   ```bash
+   python calculator.py
+   ```
+4. The calculator GUI will launch, allowing you to perform calculations.  
+
+## **License**  
+This project is open-source and free to use.  
+
+
 
 2. **Project 2: [Project Name]**
    - Description: Brief overview of the project.
