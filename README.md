@@ -36,56 +36,43 @@ This is a simple GUI-based calculator built using Python's Tkinter library. It a
 ## **License**  
 This project is open-source and free to use.  
 
+## PROJECT 2
 
+# **Contact List Application**
 
-2. **Project 2: [Project Name]**
-   - Description: Brief overview of the project.
-   - Key Features: List of key features or functionalities.
-   - Technologies: Python libraries or tools used.
+## **Overview**
+This is a simple contact management application built using Python and Tkinter. The application allows users to add, update, delete, and search for contacts in an interactive GUI.
 
-3. **Project 3: [Project Name]**
-   - Description: Brief overview of the project.
-   - Key Features: List of key features or functionalities.
-   - Technologies: Python libraries or tools used.
+## **Features**
+- Add new contacts (Name, Email, Phone)
+- Update existing contacts
+- Delete selected contacts
+- Search for contacts by name, email, or phone number
+- Clear all contacts
+- User-friendly interface with a treeview display
 
-## Technologies Used
-- Python
-- Additional libraries or tools used in the projects
+## **Requirements**
+- Python 3.x
+- Tkinter (included with Python)
 
-## Setup and Installation
-To run the projects locally, follow these steps:
-
-1. Clone the repository:
+## **How to Run**
+1. Ensure Python is installed on your system.
+2. Save the script as `contact_list.py`.
+3. Open a terminal or command prompt and navigate to the script’s location.
+4. Run the script using:
    ```bash
-   git clone https://github.com/wenakanew/CODSOFT.git
+   python contact_list.py
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd CODSOFT
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+5. The Contact List application will launch.
 
-## Usage
-Provide instructions on how to run the projects. For example:
-```bash
-python project1.py
-```
+## **Usage**
+- Enter the name, email, and phone number in the input fields and click "Add Contact."
+- Select a contact and click "Update Contact" to modify details.
+- Click "Delete Contact" to remove a selected contact.
+- Use the search bar to find a contact by name, email, or phone.
+- Click "Clear All Contacts" to remove all saved contacts.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
+## **License**
+This project is open-source and free to use.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-- Thank you to CODSOFT for the opportunity.
-- Any other acknowledgements or credits.
